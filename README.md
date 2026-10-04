@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MicahThePro
-- 👀 I’m interested in coding with HTML and Python
-- 🌱 I’m currently learning everything about GitHub
-- 💞️ I’m looking to collaborate on my cool projects I make
-- 📫 How to reach me: You can't womp womp
+- 👀 I’m interested in coding with HTML, CSS, and JavaScript!!
+- 🌱 I’m probably playing [Geometry Dash](https://gdbrowser.com/u/geometricalmike) right now
+- 💞️ I’m looking for people to notice my GD List Roulette website
+- 📫 How to reach me: micah@gd-list-roulette.xyz
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I started coding in 2018 on [Scratch](https://scratch.mit.edu)
+- ⚡ Fun fact: I started coding in 2018 on [Scratch](https://scratch.mit.edu) and was noticed by @n1ckxd on the video ["ChatGPT beats The Nightmare"](https://www.youtube.com/watch?v=-AsvYhJuy2Q&t=235s)!!
 
 <!---
 MicahThePro/MicahThePro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
